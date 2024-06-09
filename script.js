@@ -93,7 +93,7 @@ async function getCategories() {
     console.error("Error fetching categories:", error);
   }
 }
-getCategories();
+// getCategories();
 
 
 async function getByCategory(slug) {
